@@ -1,0 +1,17 @@
+.codeclimate.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+SECURITY.md
+conjur_iam_client.py
+create_lambda_package.sh
+iam_provider.py
+lambda_function_package.zip
+secrets.yml
+setup.py
+.github/CODEOWNERS
+conjur_iam_client.egg-info/PKG-INFO
+conjur_iam_client.egg-info/SOURCES.txt
+conjur_iam_client.egg-info/dependency_links.txt
+conjur_iam_client.egg-info/top_level.txt
